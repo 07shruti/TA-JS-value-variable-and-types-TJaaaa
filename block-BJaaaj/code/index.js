@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Accessing And Assigning Value</title>
+    </head>
+    <body></body>
+</html>
+
+
+
+
+
+
 // Accessing and assigning.
 
 let firstName = "Arya";
