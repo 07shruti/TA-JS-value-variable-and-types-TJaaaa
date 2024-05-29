@@ -6,10 +6,10 @@
  replace that to the value of the variable.
 
 */
-
+``js
 let num1 = 21;
 let num2 = 32;
-
+``js
 /*
 - Create a variable named `language` and store the value of `JavaScript` in it
 - Alert message saying `I am learning [language]`
