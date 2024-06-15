@@ -6,7 +6,15 @@
   - `if` the number is even print the message " number is even"
   - `if` the number is odd print the message "number is odd"
 */
-
+```js
+Let number = 10;
+if(number is even)
+{
+alert ("number is even");
+} else {
+  alert ("number is odd");
+}
+```
 // 2. Write a program to accept two numbers from user using`prompt` and alert the max value.
 
 // 3. Convert the above code using`?` terniary operator
