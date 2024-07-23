@@ -11,6 +11,8 @@ Write a program that asks the user his/her age and check for the following condi
 👇
 */
 
+if (age)
+
 // Loops
 /*
 Given a positive integer `n`. Print the word (hello) in format of heeeello (letter 'e' must be repeated `n` times). Take input from prompt and print the result in alert.
