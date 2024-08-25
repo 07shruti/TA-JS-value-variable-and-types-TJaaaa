@@ -15,7 +15,14 @@ var bank_balance = 303.91;
 var amount = 0;
 // your code goes here
 
-let total price of phone = ""
+while (amount < bank_balance) {
+    amount += PHONE_PRICE;
+    if (amount < SPENDING_THRESHOLD) {
+    }
+}
+let tax = amount * TAX_RATE;
+
+console.log('$$(amount + tax)');
 
 
 // ⛑ Answer of the above will `$334.76`.
